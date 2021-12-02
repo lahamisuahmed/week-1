@@ -18,7 +18,7 @@ Please delete options that are not relevant.
 - [ ] Client-Side Change (Master Branch)
 - [ ] Server-Side Change (Server Branch)
 
-#### Checklist:
+#### Checklist
 
 - [ ] My code follows the style guidelines of this project
 - [ ] I have performed a self-review of my own code
