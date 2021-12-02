@@ -36,6 +36,5 @@ out/
 ### VS Code ###
 .vscode/
 *.txt
-
-# OSX File
+#ADD IGNORE CASES
 *DS_Store

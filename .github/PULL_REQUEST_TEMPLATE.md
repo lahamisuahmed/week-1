@@ -13,12 +13,12 @@ Please delete options that are not relevant.
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
 - [ ] This change requires a documentation update
 
-# It is a
+### It is a
 
 - [ ] Client-Side Change (Master Branch)
 - [ ] Server-Side Change (Server Branch)
 
-# Checklist:
+#### Checklist
 
 - [ ] My code follows the style guidelines of this project
 - [ ] I have performed a self-review of my own code

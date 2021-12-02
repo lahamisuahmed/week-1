@@ -1,8 +1,8 @@
-### Description
+# Description
 
 [Description of the bug or feature]
 
-### Steps to reproduce
+## Steps to reproduce
 
 1. [First step]
 2. [Second step]
